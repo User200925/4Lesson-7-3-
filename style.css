@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+.header{
+    margin: 0 auto;
+}
+.header-content{
+    margin: 0 auto;
+    width: 1440px;
+    height: 800px;
+    background-color: #F3D7B7;
+}
+.header-element{
+    margin: 0 auto;
+    width: 1340px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    top: 22px;
+}
+.header-element2{
+    display: flex;
+    margin: 130px 0;
+    justify-content: space-between;
+}
+.header-element ul{
+    display: flex;
+    gap: 40px;
+}
+.header-box{
+    width: 464px;
+    height: 367px;
+    position: relative;
+    left: 50px;
+}
+.header-box h1{
+    font-size: 64px;
+    font-weight: 700;
+
+}
+.header-box p{
+    font-size: 16px;
+    font-weight: 400;
+    margin: 47px 0;
+}
+.header-box button{
+    width: 193px;
+    height: 51px;
+    border-radius: 100px;
+    background-color: #0A775F;
+    border: none;
+    color: white;
+}
+.header-images{
+    position: relative;
+}
+.section{
+    margin: 0 auto;
+    width: 1440px;
+    height: 1798px;
+}
+.waw{
+    position: absolute;
+    bottom: 580px;
+    right: 600px;
+}
+.OUR{
+    display: flex;
+    justify-content: center;
+    margin: 108px 0 42px 0;
+    font-size: 50px;
+    font-weight: 700;
+}
+.section-content{
+    margin:  auto;
+    width: 1117.09px;
+    height: 1500px;
+}
+#one{
+    width: 451.25px;
+    height: 375px;
+}
+.box{
+    display: flex;
+    align-items: center;
+}
+
+.chocolate h1{
+    font-size: 48px;
+    font-weight: 500;
+}
+.chocolate p{
+    margin: 10px 0 0 0;
+    font-size: 22px;
+    font-weight: 400;
+}
+.six{
+    height: 68px;
+}
+.zero{
+    width: 454.26px;
+}
+.two{
+    width: 391.08px;
+}
+.for{
+    width: 411.14px;
+}
+.row{
+    flex-direction: row-reverse;
+}
+.margin{
+    margin: 0 117.32px 0 0;
+}
+.marg1{
+    margin: 0 117.32px 0 0;
+}
+
+.footer{
+    margin: 0 auto;
+    padding: 71px 50px 0 42px;
+    width: 1440px;
+    height: 160px;
+    background-color: #F3D7B7;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ul2 ul{
+    display: flex;
+    gap: 40px;
+}
+.ul-li ul{
+    display: flex;
+    gap: 30px;
+}

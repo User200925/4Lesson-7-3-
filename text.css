@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+.header{
+    margin: 0 auto;
+}
+.header-content{
+    margin: 0 auto;
+    width: 1440px;
+    height: 1143.71px;
+    background-color: #F3D7B7;
+    position: relative;
+    bottom: 424px;
+}
+.header-element{
+    margin: 0 auto;
+    width: 1340px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    top: 447px;
+}
+.header-element ul{
+    display: flex;
+    gap: 40px;
+}
